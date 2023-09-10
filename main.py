@@ -1,3 +1,4 @@
+pip install streamlit prophet prophet yfinance plotly
 import streamlit as st
 from datetime import date
 
